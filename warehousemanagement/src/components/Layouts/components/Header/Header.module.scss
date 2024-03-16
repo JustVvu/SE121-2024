@@ -1,0 +1,9 @@
+.wrapper {
+   display: flex;
+   justify-content: space-between;
+   height: 60px;
+   width: 100%;
+   align-items: center;
+   background-color: var(--main-theme);
+   border: 1px solid var(--light-puprle);
+}

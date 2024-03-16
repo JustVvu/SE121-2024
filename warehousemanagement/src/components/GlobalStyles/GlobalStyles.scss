@@ -1,0 +1,23 @@
+@import 'normalize.css';
+
+:root {
+   --light-puprle: #373654;
+   --main-theme: #1f1e30;
+   --text-color: #bec1dc;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   font-size: 1.6rem;
+   line-height: 1.6;
+}
